@@ -231,7 +231,7 @@
   align-items: flex-start;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/figoeisviaazefx-1500w.jpg");
+  background-image: url("public/Box Art/figoeisviaazefx-1500w.jpg");
 }
 .xbox-catalog-hero1 {
   width: 100%;
@@ -278,7 +278,7 @@
   align-items: flex-start;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-.xbox-catalog-feature-card {
+.xbox-catalog-fall-guys {
   width: 100%;
   height: 620px;
   display: flex;
@@ -291,11 +291,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card:hover {
+.xbox-catalog-fall-guys:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text005 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link {
+  display: contents;
 }
 .xbox-catalog-image {
   width: 212px;
@@ -303,6 +306,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text006 {
   width: 212px;
@@ -325,7 +329,7 @@
 .xbox-catalog-text019 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card1 {
+.xbox-catalog-warzone {
   width: 100%;
   height: 620px;
   display: flex;
@@ -337,11 +341,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card1:hover {
+.xbox-catalog-warzone:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text021 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link01 {
+  display: contents;
 }
 .xbox-catalog-image1 {
   width: 212px;
@@ -349,6 +356,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text022 {
   width: 212px;
@@ -371,7 +379,7 @@
 .xbox-catalog-text035 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card2 {
+.xbox-catalog-brawlhalla {
   width: 100%;
   height: 620px;
   display: flex;
@@ -384,11 +392,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card2:hover {
+.xbox-catalog-brawlhalla:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text037 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link02 {
+  display: contents;
 }
 .xbox-catalog-image2 {
   width: 212px;
@@ -396,6 +407,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text038 {
   width: 212px;
@@ -418,7 +430,7 @@
 .xbox-catalog-text051 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card3 {
+.xbox-catalog-halo-infnite {
   width: 100%;
   height: 620px;
   display: flex;
@@ -430,11 +442,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card3:hover {
+.xbox-catalog-halo-infnite:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text053 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link03 {
+  display: contents;
 }
 .xbox-catalog-image3 {
   width: 212px;
@@ -442,6 +457,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text054 {
   width: 212px;
@@ -482,7 +498,7 @@
 .xbox-catalog-text067 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card4 {
+.xbox-catalog-fortnite {
   width: 100%;
   height: 620px;
   display: flex;
@@ -494,11 +510,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card4:hover {
+.xbox-catalog-fortnite:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text069 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link04 {
+  display: contents;
 }
 .xbox-catalog-image4 {
   width: 212px;
@@ -506,6 +525,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text070 {
   width: 212px;
@@ -546,7 +566,7 @@
 .xbox-catalog-text083 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card5 {
+.xbox-catalog-halo-mcc {
   width: 100%;
   height: 620px;
   display: flex;
@@ -558,11 +578,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card5:hover {
+.xbox-catalog-halo-mcc:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text085 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link05 {
+  display: contents;
 }
 .xbox-catalog-image5 {
   width: 212px;
@@ -570,6 +593,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text086 {
   width: 212px;
@@ -617,7 +641,7 @@
 .xbox-catalog-text102 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card6 {
+.xbox-catalog-street-figher-6 {
   width: 100%;
   height: 620px;
   display: flex;
@@ -629,11 +653,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card6:hover {
+.xbox-catalog-street-figher-6:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text103 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link06 {
+  display: contents;
 }
 .xbox-catalog-image6 {
   width: 212px;
@@ -641,6 +668,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text104 {
   width: 212px;
@@ -681,7 +709,7 @@
 .xbox-catalog-text117 {
   font-weight: 700;
 }
-.xbox-catalog-feature-card7 {
+.xbox-catalog-mk1 {
   width: 100%;
   height: 620px;
   display: flex;
@@ -693,11 +721,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.xbox-catalog-feature-card7:hover {
+.xbox-catalog-mk1:hover {
   transform: scale(1.02);
 }
 .xbox-catalog-text119 {
   margin-bottom: var(--dl-space-space-twounits);
+}
+.xbox-catalog-link07 {
+  display: contents;
 }
 .xbox-catalog-image7 {
   width: 212px;
@@ -705,6 +736,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .xbox-catalog-text120 {
   width: 212px;
@@ -779,33 +811,6 @@
   font-size: 2em;
   font-weight: bold;
 }
-.xbox-catalog-nav1 {
-  flex: 0 0 auto;
-  display: flex;
-  margin-top: 0px;
-  align-items: center;
-  flex-direction: row;
-}
-.xbox-catalog-nav12 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: 0px;
-}
-.xbox-catalog-nav22 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.xbox-catalog-nav32 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.xbox-catalog-nav42 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.xbox-catalog-nav52 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
 .xbox-catalog-separator {
   flex: 0 0 auto;
   width: 100%;
@@ -838,22 +843,34 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.xbox-catalog-link08 {
+  display: contents;
+}
 .xbox-catalog-icon10 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.xbox-catalog-link09 {
+  display: contents;
 }
 .xbox-catalog-icon12 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.xbox-catalog-link10 {
+  display: contents;
 }
 .xbox-catalog-icon14 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .xbox-catalog-hero1 {

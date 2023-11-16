@@ -231,7 +231,7 @@
   align-items: flex-start;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/New Folder/1000_f_245701100_maewqekipiylryr8dth67ebz5ku4tpaf-1500w.jpg");
+  background-image: url("public/Box Art/1000_f_245701100_maewqekipiylryr8dth67ebz5ku4tpaf-1500w.jpg");
   background-position: left;
 }
 .board-games-catalog-hero1 {
@@ -298,12 +298,16 @@
 .board-games-catalog-text004 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link {
+  display: contents;
+}
 .board-games-catalog-image {
   width: 256px;
-  height: 279px;
+  height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text005 {
   width: 212px;
@@ -318,7 +322,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text008 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text009 {
   font-weight: 700;
@@ -327,7 +332,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text012 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text013 {
   font-weight: 700;
@@ -336,7 +342,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text016 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text017 {
   font-weight: 700;
@@ -362,12 +369,16 @@
 .board-games-catalog-text020 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link01 {
+  display: contents;
+}
 .board-games-catalog-image1 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text021 {
   width: 212px;
@@ -430,12 +441,16 @@
 .board-games-catalog-text036 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link02 {
+  display: contents;
+}
 .board-games-catalog-image2 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text037 {
   width: 212px;
@@ -497,12 +512,16 @@
 .board-games-catalog-text052 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link03 {
+  display: contents;
+}
 .board-games-catalog-image3 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text053 {
   width: 212px;
@@ -517,7 +536,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text056 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text057 {
   font-weight: 700;
@@ -526,7 +546,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text060 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text061 {
   font-weight: 700;
@@ -535,7 +556,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text064 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text065 {
   font-weight: 700;
@@ -561,12 +583,16 @@
 .board-games-catalog-text068 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link04 {
+  display: contents;
+}
 .board-games-catalog-image4 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text069 {
   width: 212px;
@@ -628,12 +654,16 @@
 .board-games-catalog-text084 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link05 {
+  display: contents;
+}
 .board-games-catalog-image5 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text085 {
   width: 212px;
@@ -648,7 +678,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text088 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text089 {
   font-weight: 700;
@@ -657,7 +688,8 @@
   font-weight: 700;
 }
 .board-games-catalog-text092 {
-  font-weight: 700;
+  font-size: 14px;
+  text-transform: capitalize;
 }
 .board-games-catalog-text093 {
   font-weight: 700;
@@ -666,6 +698,10 @@
   font-weight: 700;
 }
 .board-games-catalog-text096 {
+  font-size: 14px;
+  text-transform: capitalize;
+}
+.board-games-catalog-text097 {
   font-weight: 700;
 }
 .board-games-catalog-text098 {
@@ -689,12 +725,16 @@
 .board-games-catalog-text100 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link06 {
+  display: contents;
+}
 .board-games-catalog-image6 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text101 {
   width: 212px;
@@ -756,12 +796,16 @@
 .board-games-catalog-text116 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.board-games-catalog-link07 {
+  display: contents;
+}
 .board-games-catalog-image7 {
   width: 256px;
   height: 256px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .board-games-catalog-text117 {
   width: 212px;
@@ -839,33 +883,6 @@
   font-size: 2em;
   font-weight: bold;
 }
-.board-games-catalog-nav1 {
-  flex: 0 0 auto;
-  display: flex;
-  margin-top: 0px;
-  align-items: center;
-  flex-direction: row;
-}
-.board-games-catalog-nav12 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: 0px;
-}
-.board-games-catalog-nav22 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.board-games-catalog-nav32 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.board-games-catalog-nav42 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.board-games-catalog-nav52 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
 .board-games-catalog-separator {
   flex: 0 0 auto;
   width: 100%;
@@ -898,22 +915,34 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.board-games-catalog-link08 {
+  display: contents;
+}
 .board-games-catalog-icon10 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.board-games-catalog-link09 {
+  display: contents;
 }
 .board-games-catalog-icon12 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.board-games-catalog-link10 {
+  display: contents;
 }
 .board-games-catalog-icon14 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .board-games-catalog-hero1 {

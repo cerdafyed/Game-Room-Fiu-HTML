@@ -231,7 +231,7 @@
   align-items: flex-start;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/nintendo-characters-banner-1500w.jpg");
+  background-image: url("public/Box Art/nintendo-characters-banner-1500w.jpg");
 }
 .nintendo-catalog-hero1 {
   width: 100%;
@@ -297,12 +297,16 @@
 .nintendo-catalog-text004 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link {
+  display: contents;
+}
 .nintendo-catalog-image {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text005 {
   width: 212px;
@@ -361,12 +365,16 @@
 .nintendo-catalog-text020 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link01 {
+  display: contents;
+}
 .nintendo-catalog-image1 {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text021 {
   width: 212px;
@@ -429,12 +437,16 @@
 .nintendo-catalog-text036 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link02 {
+  display: contents;
+}
 .nintendo-catalog-image2 {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text037 {
   width: 212px;
@@ -496,12 +508,16 @@
 .nintendo-catalog-text052 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link03 {
+  display: contents;
+}
 .nintendo-catalog-image3 {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text053 {
   width: 212px;
@@ -560,12 +576,16 @@
 .nintendo-catalog-text068 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link04 {
+  display: contents;
+}
 .nintendo-catalog-image4 {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text069 {
   width: 212px;
@@ -627,12 +647,16 @@
 .nintendo-catalog-text084 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link05 {
+  display: contents;
+}
 .nintendo-catalog-image5 {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text085 {
   width: 212px;
@@ -755,12 +779,16 @@
 .nintendo-catalog-text116 {
   margin-bottom: var(--dl-space-space-twounits);
 }
+.nintendo-catalog-link06 {
+  display: contents;
+}
 .nintendo-catalog-image7 {
   width: 212px;
   height: 279px;
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .nintendo-catalog-text117 {
   width: 212px;
@@ -837,7 +865,8 @@
 .nintendo-catalog-logo2 {
   color: var(--dl-color-gray-white);
   font-size: 2em;
-  font-weight: bold;
+  font-style: normal;
+  font-weight: 700;
 }
 .nintendo-catalog-nav1 {
   flex: 0 0 auto;
@@ -879,22 +908,34 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.nintendo-catalog-link07 {
+  display: contents;
+}
 .nintendo-catalog-icon10 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.nintendo-catalog-link08 {
+  display: contents;
 }
 .nintendo-catalog-icon12 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.nintendo-catalog-link09 {
+  display: contents;
 }
 .nintendo-catalog-icon14 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .nintendo-catalog-hero1 {

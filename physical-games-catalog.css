@@ -231,7 +231,7 @@
   align-items: flex-start;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/New Folder/52621064972_85af1d3d03_o-1500w.jpg");
+  background-image: url("public/Box Art/52621064972_85af1d3d03_o-1500w.jpg");
   background-position: left;
 }
 .physical-games-catalog-hero1 {
@@ -279,7 +279,7 @@
   align-items: flex-start;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-.physical-games-catalog-sorry {
+.physical-games-catalog-ping-pong {
   width: 686px;
   height: 976px;
   display: flex;
@@ -292,12 +292,15 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.physical-games-catalog-sorry:hover {
+.physical-games-catalog-ping-pong:hover {
   transform: scale(1.02);
 }
 .physical-games-catalog-text04 {
   align-self: center;
   margin-bottom: var(--dl-space-space-twounits);
+}
+.physical-games-catalog-link {
+  display: contents;
 }
 .physical-games-catalog-image {
   width: 512px;
@@ -305,6 +308,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .physical-games-catalog-text05 {
   width: 512px;
@@ -319,7 +323,8 @@
   font-weight: 700;
 }
 .physical-games-catalog-text08 {
-  font-weight: 700;
+  font-size: 32px;
+  text-transform: capitalize;
 }
 .physical-games-catalog-text09 {
   font-weight: 700;
@@ -328,7 +333,8 @@
   font-weight: 700;
 }
 .physical-games-catalog-text12 {
-  font-weight: 700;
+  font-size: 32px;
+  text-transform: capitalize;
 }
 .physical-games-catalog-text13 {
   font-weight: 700;
@@ -337,7 +343,8 @@
   font-weight: 700;
 }
 .physical-games-catalog-text16 {
-  font-weight: 700;
+  font-size: 32px;
+  text-transform: capitalize;
 }
 .physical-games-catalog-text17 {
   font-weight: 700;
@@ -345,7 +352,7 @@
 .physical-games-catalog-text18 {
   font-weight: 700;
 }
-.physical-games-catalog-trouble {
+.physical-games-catalog-pool {
   width: 582px;
   height: 979px;
   display: flex;
@@ -357,12 +364,15 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.physical-games-catalog-trouble:hover {
+.physical-games-catalog-pool:hover {
   transform: scale(1.02);
 }
 .physical-games-catalog-text20 {
   align-self: center;
   margin-bottom: var(--dl-space-space-twounits);
+}
+.physical-games-catalog-link1 {
+  display: contents;
 }
 .physical-games-catalog-image1 {
   width: 512px;
@@ -370,6 +380,7 @@
   align-self: center;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
 }
 .physical-games-catalog-text21 {
   width: 512px;
@@ -384,7 +395,7 @@
   font-weight: 700;
 }
 .physical-games-catalog-text24 {
-  text-transform: capitalize;
+  font-size: 32px;
 }
 .physical-games-catalog-text25 {
   font-weight: 700;
@@ -393,7 +404,7 @@
   font-weight: 700;
 }
 .physical-games-catalog-text28 {
-  text-transform: capitalize;
+  font-size: 32px;
 }
 .physical-games-catalog-text29 {
   font-weight: 700;
@@ -402,7 +413,7 @@
   font-weight: 700;
 }
 .physical-games-catalog-text32 {
-  text-transform: capitalize;
+  font-size: 32px;
 }
 .physical-games-catalog-text33 {
   font-weight: 700;
@@ -444,33 +455,6 @@
   font-size: 2em;
   font-weight: bold;
 }
-.physical-games-catalog-nav1 {
-  flex: 0 0 auto;
-  display: flex;
-  margin-top: 0px;
-  align-items: center;
-  flex-direction: row;
-}
-.physical-games-catalog-nav12 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: 0px;
-}
-.physical-games-catalog-nav22 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.physical-games-catalog-nav32 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.physical-games-catalog-nav42 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
-.physical-games-catalog-nav52 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-}
 .physical-games-catalog-separator {
   flex: 0 0 auto;
   width: 100%;
@@ -503,22 +487,34 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.physical-games-catalog-link2 {
+  display: contents;
+}
 .physical-games-catalog-icon10 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.physical-games-catalog-link3 {
+  display: contents;
 }
 .physical-games-catalog-icon12 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.physical-games-catalog-link4 {
+  display: contents;
 }
 .physical-games-catalog-icon14 {
   fill: var(--dl-color-secondary-gray500);
   width: 24px;
   height: 24px;
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .physical-games-catalog-hero1 {
